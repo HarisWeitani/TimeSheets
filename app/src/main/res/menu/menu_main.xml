@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.harisweitani.timesheets.MainActivity">
+    <item
+        android:id="@+id/action_settingsN"
+        android:orderInCategory="100"
+        android:title="@string/action_settingsN"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settingsO"
+        android:orderInCategory="100"
+        android:title="@string/action_settingsO"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settingsD"
+        android:orderInCategory="100"
+        android:title="@string/action_settingsD"
+        app:showAsAction="never" />
+</menu>

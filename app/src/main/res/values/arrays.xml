@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="project_name_arrays">
+
+        <item>AFI-MS2MCS</item>
+        <item>AF-MSS</item>
+        <item>AF-MCS</item>
+        <item>AFN-MSMCS</item>
+        <item>AIT-MSS</item>
+        <item>AIT-MSS-ENC</item>
+        <item>AIT-MSS-NLB</item>
+        <item>AIT-MSS-CL</item>
+        <item>AIT-MSSWP</item>
+        <item>BAF-MCS</item>
+        <item>BAF-MSS</item>
+        <item>BCA-EFES</item>
+        <item>BDKI-MCS</item>
+        <item>BNF-MOSCS</item>
+        <item>BFI-MAS</item>
+        <item>BRIF-MOSS</item>
+        <item>CNF-MS</item>
+        <item>CNF-MCS</item>
+        <item>CSF-MOSCS</item>
+        <item>CFI-MOSCS</item>
+        <item>FIF-MCS</item>
+        <item>FIF-MCRISFIFA</item>
+        <item>FIF-MCSFIFA</item>
+        <item>FIF-MSSFIFA</item>
+        <item>FMF-MCS</item>
+        <item>MIF-MCS</item>
+        <item>MUF-MCS</item>
+        <item>MCS-CL</item>
+        <item>MSS-CL</item>
+        <item>NFSI-MCS</item>
+        <item>NFSI-MOSS</item>
+        <item>SFI-MOSS</item>
+        <item>TAFS-MSMCS</item>
+        <item>TBG-MSS</item>
+        <item>VMF-MSSMCS</item>
+        <item>WOMF-MSS</item>
+        <item>Mobile-Auction</item>
+        <item>Training</item>
+        <item>Meeting</item>
+        <item>Research</item>
+        <item>Presales</item>
+        <item>Others</item>
+        <item>Administrative</item>
+        <item>Cuti, Absen, Ijin</item>
+
+    </string-array>
+
+    <string-array name="activities_arrays">
+
+        <item>Ad-hoc</item>
+        <item>Cuti</item>
+        <item>Ijin</item>
+        <item>Libur</item>
+        <item>Management</item>
+        <item>Others</item>
+        <item>Presales</item>
+        <item>Projects</item>
+        <item>Sakit</item>
+        <item>Training</item>
+        <item>Bugs Fixing</item>
+        <item>CR</item>
+        <item>Meeting</item>
+        <item>Regular Visit</item>
+        <item>Research Web AITMSS</item>
+        <item>Research Mobile AITMSS</item>
+        <item>Research Others</item>
+
+    </string-array>
+
+    <string-array name="status_arrays">
+
+        <item>Plan</item>
+        <item>Real</item>
+
+    </string-array>
+
+</resources>

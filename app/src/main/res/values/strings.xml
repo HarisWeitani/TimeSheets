@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TimeSheets</string>
+    <string name="tab_text_1">All Task</string>
+    <string name="tab_text_2">Add Task</string>
+    <string name="action_settingsN">Sort Newest</string>
+    <string name="action_settingsO">Sort Oldest</string>
+    <string name="action_settingsD">Sort Duration</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="choose_project">Choose Project</string>
+    <string name="choose_activities">Choose Activities</string>
+    <string name="choose_status">Choose Status</string>
+
+    <string name="date">Date</string>
+    <string name="days">Days</string>
+    <string name="project_name">Project Name</string>
+    <string name="activities">Activities</string>
+    <string name="detail_activities">Detail Activities</string>
+    <string name="sprint_bulk_id">Sprint Bulk Id</string>
+    <string name="duration">Duration</string>
+    <string name="plan">Plan</string>
+    <string name="real">Real</string>
+    <string name="input_activities">Input Activities</string>
+
+    
+</resources>
